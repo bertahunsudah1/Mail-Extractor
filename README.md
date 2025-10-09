@@ -45,3 +45,4 @@ pytest Mail-Extractor-tests -q
 
 ## License
 MIT
+2025-10-16 12:36:49 - docs: improve README with badges
